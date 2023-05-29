@@ -1,0 +1,53 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFC107"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/vize1Not"
+        android:inputType="number"
+        android:layout_marginTop="300dp"
+        android:layout_width="396dp"
+        android:layout_height="106dp"
+        android:layout_margin="10sp"
+        android:hint="Vize Notu Giriniz"
+        android:textAlignment="center"
+
+        android:textSize="24sp"></EditText>
+
+
+    <EditText
+        android:id="@+id/finalNot"
+        android:inputType="number"
+        android:layout_width="396dp"
+        android:layout_height="106dp"
+        android:layout_margin="10sp"
+        android:hint="Final Notu Giriniz"
+        android:textAlignment="center"
+        android:textSize="24sp"></EditText>
+
+    <Button
+        android:id="@+id/btnSonuc"
+        android:layout_width="match_parent"
+        android:layout_height="113dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:backgroundTint="#47A3EC"
+        android:text="Sonucu Öğren"
+
+        android:textAppearance="@android:style/TextAppearance.Material.Body1"
+        android:textSize="24sp"></Button>
+
+    <TextView
+        android:id="@+id/tvSonuc"
+        android:layout_width="match_parent"
+        android:layout_height="169dp"
+        android:scrollbarSize="44dp"
+        android:text="SONUC"
+        android:textAlignment="center"
+        android:textSize="50sp" />
+
+
+</LinearLayout>
