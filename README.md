@@ -1,5 +1,6 @@
 # Not_Ortalama_Hesaplama_Uygulama
 Not Ortalaması Hesaplama Uygulaması
+Videoları boyutları 10mb üzeri olduğunda yükleme problemi olduğu için kısa videolar çektim
 
 
 https://github.com/halitpehlivanoglu/Not_Ortalama_Hesaplama_Uygulama/assets/111686319/ed96e4cd-f716-40f3-94c5-4b0f5aeb8493
